@@ -27,6 +27,7 @@
 - Spring Data JPA
 - H2 Database
 - Maven
+- Lombok
 
 ## Installation
 
